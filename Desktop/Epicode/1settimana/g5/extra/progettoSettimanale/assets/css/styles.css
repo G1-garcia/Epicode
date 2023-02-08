@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+   font: #393d41 – 1.2rem – Open Sans – interlinea 1.65;
+   font-family: 'Roboto', sans-serif;
+}
+
+/* HEADER */
+header {
+    background-color: black;
+    text-align: center;
+}
+
+#banner {
+    background-image: url(../images/banner.jpg);
+}
+
+#button {
+    background-color: #f04c2f;
+}
+
+#button a {
+    text-decoration: none;
+}
+
+/*MAIN*/
+
+main {
+ background-color: white;
+ text-align: center;
+}
+/*ARTICLE*/
+ 
+p b {
+    color: blue;
+}
+
+#card1, #card2, #card2 {
+    box-shadow: #dee1e3;
+}
+
+#foto1 {
+    border-radius: 250px;
+    width: 80%;
+}
+
+
+#separatore {
+    background-color: rgb(250, 78, 40);
+}
+
+#corsivo {
+    font-style: italic;
+}
+
+#foto2 {
+    box-sizing: border-box;
+    border: #dee1e3;
+    width: 80%;
+}
+
+#foto3 {
+    box-sizing: border-box;
+    border: #dee1e3;
+    width: 80%;
+}
+
+#foto4 {
+    box-sizing: border-box;
+    border: #dee1e3;
+    width: 80%;
+}
+
+/*FOOTER*/
+
+footer {
+    background-color: #25a2c3;
+    text-align: center;
+    color: white;
+}
+
+p a {
+    color: white;
+}
