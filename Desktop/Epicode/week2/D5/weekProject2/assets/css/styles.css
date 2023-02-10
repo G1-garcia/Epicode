@@ -1,0 +1,93 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Container*/
+
+#container {
+    width: 100wh;
+    height: 100vh;
+}
+
+/*Calculator*/
+
+#calculator {
+    height: 55%;
+    width: 25%;
+    margin: 0 auto;
+    margin-top: 60px;
+    box-shadow: 5px 10px 20px;
+    background-color: rgba(38, 6, 66, 0.568);
+    text-align: center;
+}
+
+/*schermo*/
+
+#screen {
+    width: 98%;
+    height: 60px;
+}
+
+/*first row*/
+
+.firstRow {
+    height: 15%;
+    width: 100%;
+}
+
+/*second row*/
+
+.secondRow {
+    height: 15%;
+    width: 100%;
+}
+
+/*third row*/
+
+.thirdRow {
+    height: 15%;
+    width: 100%;
+}
+
+/*four row*/
+
+.fourRow {
+    height: 15%;
+    width: 100%;
+}
+
+/*equal*/
+
+.equal {
+    height: 15%;
+    width: 100%;
+}
+
+#equal {
+    height: 100%;
+    width: 50%;
+    margin: 5px;
+}
+
+/*bottons*/
+
+.btn {
+    height: 90%;
+    width: 20%;
+    background-color: blue;
+    margin: 5px;
+    color: white;
+}
+
+/*Operators*/
+
+.operators {
+    background-color: orange;
+    height: 90%;
+    width: 20%;
+    margin: 5px;
+}
